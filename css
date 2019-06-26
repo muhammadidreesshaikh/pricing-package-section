@@ -1,0 +1,139 @@
+  .pricing
+  {
+    background-color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+
+  .pricing .wrapper
+  {
+    padding-left: 0;
+    padding-right: 0px;
+    padding-top: 5%;
+  }
+
+  .pricing .main-1 
+  {
+    text-align: center;
+  }
+
+  .pricing .main-1 h1
+  {
+    font-size: 40px;
+    margin-bottom: 0;
+  }
+
+  .pricing .main-1 h1 span
+  {
+      color: orange;
+  }
+
+  .pricing .main-1 p
+  {
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 0;
+    padding-top: 5px;
+  }
+
+  .pricing .price1 
+  {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-color: white;
+    box-shadow: 3px 1px 9px;
+  }
+
+  .pricing .price1 .icon1
+  {
+    border-radius: 50%;
+    background-color: #e8e8e8;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+  }
+
+  .pricing .price1 .icon1 img
+  {
+    width: 90px;
+    display: block;
+    margin: auto;
+    position: relative;
+    top: -3px;
+  }
+
+  .pricing .price1 .icon1:hover
+  {
+    background-color: orange;
+    opacity: 0.5s;
+    transition: 0.5s;
+  }
+
+  .pricing .heading1
+  {
+    padding-top: 15%;
+  }
+
+  .pricing .heading1 h4
+  {
+    text-align: center;
+    margin-bottom: 0;
+    color: orange;
+    font-size: 20px;
+  }
+
+  .pricing .heading1 h3
+  {
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 25px;
+  }
+
+  .pricing .intro1
+  {
+    text-align: center;
+    border-bottom: 2px dashed #ccc;
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .pricing .intro1 i.fas fa-times
+  {
+    color: red;
+  }
+
+  .pricing .intro1 p
+  {
+    margin: 0;
+    display: inline-block;
+    padding-left: 8px;
+    font-weight: 600;
+    font-family: raleway;
+    padding-top: 30px;
+  }
+
+  .pricing .button6
+  {
+    text-align: center;
+    margin-top: 20%;
+  }
+
+  .pricing .button6 a
+  {
+    border: 1px solid orange;
+    border-radius: 2px;
+    background-color: orange;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+  }
+
+  .pricing .button6 a:hover
+  {
+    background-color: #00002f;
+    color: white;
+    opacity: 0.5s;
+    transition: 0.5s;
+  }
